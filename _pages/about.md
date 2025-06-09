@@ -9,23 +9,39 @@ redirect_from:
 
 About Me
 ======
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a third-year Ph.D. student at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb).
+I am also an intern at the [National Institute of Information and Communi-cations Technology](https://www.nict.go.jp/) (NICT), Japan, where I am mentored by [Associate Prof. Chenchen Ding](https://att-astrec.nict.go.jp/member/ding/).
+My research focuses on machine translation, particularly in multilingual settings. I also maintain a broad interest in natural language processing (NLP) in general.
 
-A data-driven personal website
+You can learn more about me through my [Publications](#publications), [Educations](#educations) and [Research Experiences](#research_experiences).
+You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) and [OpenReview Profile](https://openreview.net/profile?id=%7EZhi_Qu2).
+
+---
+
+Publications {#publications}
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* <u>Zhi Qu</u>, Yiran Wang, Jiannan Mao, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Taro Watanabe. Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation. ACL 2025.
+* <u>Zhi Qu</u>, Chenchen Ding, Taro Watanabe. Languages transferred within the encoder: On representation transfer in zero-shot multilingual translation. MT Summit 2025.
+* Zhe Cao, <u>Zhi Qu</u>, Hidetaka Kamigaito, Taro Watanabe. Exploring intrinsic language-specific subspaces in fine-tuning multilingual neural machine translation. EMNLP 2024.
+* Huayang Li, Deng Cai, <u>Zhi Qu</u>, Qu Cui, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe. Cross-lingual Contextualized Phrase Retrieval. Findings of EMNLP 2024.
+* Frederikus Hudi, <u>Zhi Qu</u>, Hidetaka Kamigaito, Taro Watanabe. Disentangling Pretrained Representation to Leverage Low-Resource Languages in Multilingual Machine Translation. LERC-COLING 2024.
+* <u>Zhi Qu</u>, Taro Watanabe. Adapting to Non-Centered Languages for Zero-shot Multilingual Translation. COLING 2022.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-Getting started
+Educations {#educations}
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Nara Institute of Science and Technology, Japan
+Supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb) at [NLP Lab](https://nlp.naist.jp/en)
+* Ph.D. Candidate of Engineering, 2023.4 ~ present
+* Master of Engineering, 2021.4 ~ 2023.3
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Chongqing Normal University, China
+* Bachelor of Science, 2015.9 ~ 2019.6
+
+---
+
+Research Experiences {#research_experiences}
+======
+* Internship, NICT, 2023.10 ~ present
+* Research Assistant, NAIST, 2023.4 ~ present
