@@ -352,7 +352,12 @@
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
-  }
+  }  
+}
+.summary-heading {
+  font-size: 1.5em;
+  font-weight: bold;
+  display: inline;
 }
 
 .comment__author {
