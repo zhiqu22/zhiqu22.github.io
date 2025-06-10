@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- About Me
-====== -->
+<summary id="about_me"><span class="summary-heading">About Me</span></summary>
 I am a third-year Ph.D. student at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb).
 I am also an intern at [National Institute of Information and Communi-ations Technology](https://www.nict.go.jp/) (NICT), Japan, where I am mentored by [Associate Prof. Chenchen Ding](https://att-astrec.nict.go.jp/member/ding/).
 My research focuses on machine translation, particularly in multilingual settings. I also maintain a broad interest in natural language processing (NLP) in general.
