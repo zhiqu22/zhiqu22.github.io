@@ -21,12 +21,82 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
 <details>
   <summary id="publications"><span class="summary-heading">Publications</span></summary>
   <ul>
-    <li><u>Z. Qu</u>, Y. Wang, J. Mao, C. Ding, H. Tanaka, M. Utiyama, T. Watanabe. Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation. ACL 2025, Oral. [<a href="https://arxiv.org/abs/2501.02979">Paper</a>], [<a href="https://huggingface.co/naist-nlp/mitre_466m">Hugging Face</a>]</li>
-    <li><u>Z. Qu</u>, C. Ding, T. Watanabe. Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation. MT Summit 2025, Oral. [<a href="https://arxiv.org/abs/2406.08092">Paper</a>] [<a href="https://docs.google.com/presentation/d/1OdeNpQReMO-65aaJbsOAuMJaENG1pe4p/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true">Slides</a>]</li>
-    <li>Z. Cao, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe. Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation. EMNLP 2024. [<a href="https://aclanthology.org/2024.emnlp-main.1177">Paper</a>]</li>
-    <li>H. Li, D. Cai, <u>Z. Qu</u>, Q. Cui, H. Kamigaito, L. Liu, T. Watanabe. Cross-lingual Contextualized Phrase Retrieval. Findings of EMNLP 2024. [<a href="https://aclanthology.org/2024.findings-emnlp.383">Paper</a>]</li>
-    <li>F. Hudi, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe. Disentangling Pretrained Representation to Leverage Low-Resource Languages in Multilingual Machine Translation. LERC-COLING 2024. [<a href="https://aclanthology.org/2024.lrec-main.446/">Paper</a>]</li>
-    <li><u>Z. Qu</u>, T. Watanabe. Adapting to Non-Centered Languages for Zero-shot Multilingual Translation. COLING 2022, Oral. [<a href="https://aclanthology.org/2022.coling-1.467/">Paper</a>]</li>
+    <li> 
+      Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation
+      <br>
+      <u>Z. Qu</u>, Y. Wang, J. Mao, C. Ding, H. Tanaka, M. Utiyama, T. Watanabe
+      <br>
+        <em>
+          The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
+      [<a href="https://arxiv.org/abs/2501.02979">Paper</a>]
+      [<a href="https://docs.google.com/presentation/d/1JWh-fqMgLnruewbnFrfIEp085XTIeN4D/edit?usp=drive_link&ouid=117841621988194296049&rtpof=true&sd=true">Slides</a>]
+      [<a href="https://huggingface.co/naist-nlp/mitre_466m">Hugging Face</a>]
+    </li>
+    <li>
+      Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation
+      <br>
+        <u>Z. Qu</u>, C. Ding, T. Watanabe
+      <br>
+        <em>
+          The 20th Machine Translation Summit (MT Summit 2025)
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Best Paper</span>
+      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
+      [<a href="https://arxiv.org/abs/2406.08092">Paper</a>]
+      [<a href="https://docs.google.com/presentation/d/1OdeNpQReMO-65aaJbsOAuMJaENG1pe4p/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true">Slides</a>]
+    </li>
+    <li>
+      Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation
+      <br>
+        Z. Cao, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe
+      <br>
+        <em>
+          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
+      [<a href="https://aclanthology.org/2024.emnlp-main.1177">Paper</a>]
+    </li>
+    <li>
+      Cross-lingual Contextualized Phrase Retrieval
+      <br>
+        H. Li, D. Cai, <u>Z. Qu</u>, Q. Cui, H. Kamigaito, L. Liu, T. Watanabe
+      <br>
+        <em>
+          Findings of EMNLP 2024
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
+      [<a href="https://aclanthology.org/2024.findings-emnlp.383">Paper</a>]
+    </li>
+    <li>
+      Disentangling Pretrained Representation to Leverage Low-Resource Languages in Multilingual Machine Translation
+      <br>
+        F. Hudi, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe
+      <br>
+        <em>
+          The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
+      [<a href="https://aclanthology.org/2024.lrec-main.446/">Paper</a>]
+    </li>
+    <li>
+      Adapting to Non-Centered Languages for Zero-shot Multilingual Translation. COLING 2022.
+      <br>
+        <u>Z. Qu</u>, T. Watanabe
+      <br>
+        <em>
+          The 29th International Conference on Computational Linguistics (COLING 2022)
+        </em>
+      <br>
+      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
+      [<a href="https://aclanthology.org/2022.coling-1.467/">Paper</a>]
+    </li>
   </ul>
 </details>
 
@@ -52,8 +122,25 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
 <details>
   <summary id="research_experiences"><span class="summary-heading">Research Experiences</span></summary>
   <ul>
-    <li>Internship, <a href="https://att-astrec.nict.go.jp/">Advanced Translation Technology Laboratory</a>, 
+    <li>Intern, <a href="https://att-astrec.nict.go.jp/">Advanced Translation Technology Laboratory</a>, 
   <a href="https://astrec.nict.go.jp/">ASTERC</a>, NICT, 2023.10 ~ present</li>
     <li>Research Assistant, NLP Lab, NAIST, 2023.4 ~ present</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary id="honors"><span class="summary-heading">Honors</span></summary>
+  <ul>
+    <li>
+      Springer EAMT 2025 Best Paper Award, 2025
+    </li>
+    <li>
+      NAIST Outstanding Student, 2022
+    </li>
+    <li>
+      Google East Asia Student Travel Grants, 2022
+    </li>
   </ul>
 </details>
