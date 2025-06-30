@@ -30,10 +30,10 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
           ACL 2025
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
-      [<a href="https://arxiv.org/abs/2501.02979">Paper</a>]
-      [<a href="https://docs.google.com/presentation/d/1JWh-fqMgLnruewbnFrfIEp085XTIeN4D/edit?usp=drive_link&ouid=117841621988194296049&rtpof=true&sd=true">Slides</a>]
-      [<a href="https://huggingface.co/naist-nlp/mitre_466m">Hugging Face</a>]
+      <img src="https://img.shields.io/badge/Oral-orange"/>
+      <a href="https://arxiv.org/abs/2501.02979"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      <a href="https://docs.google.com/presentation/d/1JWh-fqMgLnruewbnFrfIEp085XTIeN4D/edit?usp=drive_link&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
+      <a href="https://huggingface.co/naist-nlp/mitre_466m"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
     </li>
     <li>
       Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation
@@ -41,13 +41,12 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
         <u>Z. Qu</u>, C. Ding, T. Watanabe
       <br>
         <em>
-          MT Summit 2025
+          MT Summit 2025 <img src="https://img.shields.io/badge/Best%20Paper-red"/>
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Best Paper</span>
-      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
-      [<a href="https://arxiv.org/abs/2406.08092">Paper</a>]
-      [<a href="https://docs.google.com/presentation/d/1OdeNpQReMO-65aaJbsOAuMJaENG1pe4p/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true">Slides</a>]
+      <img src="https://img.shields.io/badge/Oral-orange"/>
+      <a href="https://arxiv.org/abs/2406.08092"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      <a href="https://docs.google.com/presentation/d/1OdeNpQReMO-65aaJbsOAuMJaENG1pe4p/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
     </li>
     <li>
       Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation
@@ -58,8 +57,8 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
           EMNLP 2024
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
-      [<a href="https://aclanthology.org/2024.emnlp-main.1177">Paper</a>]
+      <img src="https://img.shields.io/badge/Poster-purple"/>
+      <a href="https://aclanthology.org/2024.emnlp-main.1177"><img src="https://img.shields.io/badge/Paper-blue"/></a>
     </li>
     <li>
       Cross-lingual Contextualized Phrase Retrieval
@@ -70,8 +69,8 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
           Findings of EMNLP 2024
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
-      [<a href="https://aclanthology.org/2024.findings-emnlp.383">Paper</a>]
+      <img src="https://img.shields.io/badge/Poster-purple"/>
+      <a href="https://aclanthology.org/2024.findings-emnlp.383"><img src="https://img.shields.io/badge/Paper-blue"/></a>
     </li>
     <li>
       Disentangling Pretrained Representation to Leverage Low-Resource Languages in Multilingual Machine Translation
@@ -82,8 +81,8 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
           LREC-COLING 2024
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Poster</span>
-      [<a href="https://aclanthology.org/2024.lrec-main.446/">Paper</a>]
+      <img src="https://img.shields.io/badge/Poster-purple"/>
+      <a href="https://aclanthology.org/2024.lrec-main.446/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
     </li>
     <li>
       Adapting to Non-Centered Languages for Zero-shot Multilingual Translation
@@ -94,8 +93,8 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
           COLING 2022
         </em>
       <br>
-      <span style="border: 1px solid; border-radius: 3px;">Oral</span>
-      [<a href="https://aclanthology.org/2022.coling-1.467/">Paper</a>]
+      <img src="https://img.shields.io/badge/Oral-orange"/>
+      <a href="https://aclanthology.org/2022.coling-1.467/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
     </li>
   </ul>
 </details>
