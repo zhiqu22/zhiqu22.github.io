@@ -27,7 +27,7 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
       <u>Z. Qu</u>, Y. Wang, J. Mao, C. Ding, H. Tanaka, M. Utiyama, T. Watanabe
       <br>
         <em>
-          The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+          ACL 2025
         </em>
       <br>
       <span style="border: 1px solid; border-radius: 3px;">Oral</span>
@@ -41,7 +41,7 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
         <u>Z. Qu</u>, C. Ding, T. Watanabe
       <br>
         <em>
-          The 20th Machine Translation Summit (MT Summit 2025)
+          MT Summit 2025
         </em>
       <br>
       <span style="border: 1px solid; border-radius: 3px;">Best Paper</span>
@@ -55,7 +55,7 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
         Z. Cao, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe
       <br>
         <em>
-          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+          EMNLP 2024
         </em>
       <br>
       <span style="border: 1px solid; border-radius: 3px;">Poster</span>
@@ -79,19 +79,19 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
         F. Hudi, <u>Z. Qu</u>, H. Kamigaito, T. Watanabe
       <br>
         <em>
-          The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+          LREC-COLING 2024
         </em>
       <br>
       <span style="border: 1px solid; border-radius: 3px;">Poster</span>
       [<a href="https://aclanthology.org/2024.lrec-main.446/">Paper</a>]
     </li>
     <li>
-      Adapting to Non-Centered Languages for Zero-shot Multilingual Translation. COLING 2022.
+      Adapting to Non-Centered Languages for Zero-shot Multilingual Translation
       <br>
         <u>Z. Qu</u>, T. Watanabe
       <br>
         <em>
-          The 29th International Conference on Computational Linguistics (COLING 2022)
+          COLING 2022
         </em>
       <br>
       <span style="border: 1px solid; border-radius: 3px;">Oral</span>
