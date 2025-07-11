@@ -14,7 +14,7 @@ I maintain a broad interest in Natural Language Processing (NLP) in general.
 My main research focuses on Machine Translation, particularly in Multilingual settings.
 
 You can learn more about me through my [Publications](#publications), [Educations](#educations) and [Research Experiences](#research_experiences).
-You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) and [OpenReview Profile](https://openreview.net/profile?id=%7EZhi_Qu2).
+You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) and [OpenReview Profile](https://openreview.net/profile?id=%7EZhi_Qu2).
 
 ---
 
@@ -32,7 +32,7 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
       <br>
       <img src="https://img.shields.io/badge/Oral-orange"/>
       <a href="https://arxiv.org/abs/2501.02979"><img src="https://img.shields.io/badge/Paper-blue"/></a>
-      <a href="https://docs.google.com/presentation/d/1JWh-fqMgLnruewbnFrfIEp085XTIeN4D/edit?usp=drive_link&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
+      <a href="https://docs.google.com/presentation/d/19gZBVyt9HCwCyQql9inY4SmWGeHBxoab/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
       <a href="https://huggingface.co/naist-nlp/mitre_466m"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
     </li>
     <li>
@@ -41,7 +41,7 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
         <u>Z. Qu</u>, C. Ding, T. Watanabe
       <br>
         <em>
-          MT Summit 2025 <img src="https://img.shields.io/badge/Best%20Paper-red"/>
+          MT Summit 2025 <a href="https://mtsummit2025.unige.ch/"><img src="https://img.shields.io/badge/Best%20Paper-red"/></a>
         </em>
       <br>
       <img src="https://img.shields.io/badge/Oral-orange"/>
@@ -133,13 +133,13 @@ You also can find my [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) an
   <summary id="honors"><span class="summary-heading">Honors</span></summary>
   <ul>
     <li>
-      Springer EAMT 2025 Best Paper Award, 2025
+      Springer EAMT 2025 Best Paper Award, 2025. [<a href="https://mtsummit2025.unige.ch/">news_1</a>] [<a href="http://isw3.naist.jp/IS/PubWG/Events-ja/2025/award20250627_qu.html">news_2</a>]
     </li>
     <li>
-      NAIST Outstanding Student, 2022
+      NAIST Outstanding Student, 2022.
     </li>
     <li>
-      Google East Asia Student Travel Grants, 2022
+      Google East Asia Student Travel Grants, 2022.
     </li>
   </ul>
 </details>
