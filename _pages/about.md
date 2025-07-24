@@ -34,7 +34,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
       <br>
       <img src="https://img.shields.io/badge/Oral-orange"/>
       <a href="https://arxiv.org/abs/2501.02979"><img src="https://img.shields.io/badge/Paper-blue"/></a>
-      <a href="https://docs.google.com/presentation/d/19gZBVyt9HCwCyQql9inY4SmWGeHBxoab/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
+      <a href="https://docs.google.com/presentation/d/1fzmo2hZhykFPZ6_dknwJLXId-zTaWHis/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
       <a href="https://huggingface.co/naist-nlp/mitre_466m"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
     </li>
     <li>
