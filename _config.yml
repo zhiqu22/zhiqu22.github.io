@@ -23,10 +23,10 @@ repository               : "zhiqu22/zhiqu22.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Zhi Qu / 屈直"
+  name             : "Zhi Qu | 屈直"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
-  location         : "Nara, JAPAN"
+  bio              : "Ph.D. Candidate @ NAIST <br> Technical Researcher @ NICT"
+  location         : "JAPAN"
   # employer         : "NAIST"
   # uri              : "https://www.naist.jp/"
   email            : "qu.zhi.pv5@is.naist.jp" 

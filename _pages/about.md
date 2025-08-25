@@ -9,9 +9,8 @@ redirect_from:
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
 I am a third-year Ph.D. student at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb).
-The expected graduation date is March 2026.
-I am also an intern at [National Institute of Information and Communic-ations Technology](https://www.nict.go.jp/) (NICT), Japan, where I am mentored by [Associate Prof. Chenchen Ding](https://att-astrec.nict.go.jp/member/ding/).
-From October 2025, I will officially work for NICT as a technical researcher.
+The expected graduation date is March 2026.<br>
+I am also working for [National Institute of Information and Communications Technology](https://www.nict.go.jp/) (NICT), Japan, as a Technical Researcher in the ATT Lab of ASTREC, where I work under the guidance of [Dr. Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Dr. Tanaka](https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja), and [Dr. Ding](https://att-astrec.nict.go.jp/member/ding/).<br>
 I maintain a broad interest in Natural Language Processing (NLP) in general.
 My main research focuses on Machine Translation, particularly in Multilingual settings.
 
@@ -33,7 +32,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
         </em>
       <br>
       <img src="https://img.shields.io/badge/Oral-orange"/>
-      <a href="https://arxiv.org/abs/2501.02979"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      <a href="https://aclanthology.org/2025.acl-long.1052/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       <a href="https://docs.google.com/presentation/d/1fzmo2hZhykFPZ6_dknwJLXId-zTaWHis/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
       <a href="https://huggingface.co/naist-nlp/mitre_466m"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
     </li>
@@ -47,7 +46,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
         </em>
       <br>
       <img src="https://img.shields.io/badge/Oral-orange"/>
-      <a href="https://arxiv.org/abs/2406.08092"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      <a href="https://aclanthology.org/2025.mtsummit-1.7/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       <a href="https://docs.google.com/presentation/d/1OdeNpQReMO-65aaJbsOAuMJaENG1pe4p/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
     </li>
     <li>
@@ -108,7 +107,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
   <h3>Nara Institute of Science and Technology, Japan</h3>
   Supervised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a> at <a href="https://nlp.naist.jp/en">NLP Lab</a>
   <ul>
-    <li>Ph.D. Candidate of Engineering, 2023.4 ~ present</li>
+    <li>Ph.D. Student, 2023.4 ~ present</li>
     <li>Master of Engineering, 2021.4 ~ 2023.3</li>
   </ul>
 
@@ -123,9 +122,21 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
 <details>
   <summary id="research_experiences"><span class="summary-heading">Research Experiences</span></summary>
   <ul>
-    <li>Intern, <a href="https://att-astrec.nict.go.jp/">Advanced Translation Technology Laboratory</a>, 
-  <a href="https://astrec.nict.go.jp/">ASTERC</a>, NICT, 2023.10 ~ present</li>
+    <li>Technical Researcher, <a href="https://att-astrec.nict.go.jp/">ATT Lab</a>, 
+  <a href="https://astrec.nict.go.jp/">ASTERC</a>, NICT, 2025.10 ~ present</li>
+    <li>Internship, ATT Lab, ASTERC, NICT, 2023.10 ~ 2025.09</li>
     <li>Research Assistant, NLP Lab, NAIST, 2023.4 ~ present</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary id="activities"><span class="summary-heading">Activities</span></summary>
+  <ul>
+    <li>
+      Invited talk at <a href="https://aamtjapio.com/">AAMT/Japio SIG</a>, 2025. <a href="https://docs.google.com/presentation/d/1QQkK3NxLJ2H2exNFcizg75FqligTih_o/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
+    </li>
   </ul>
 </details>
 
