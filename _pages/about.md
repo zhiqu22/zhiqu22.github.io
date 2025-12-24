@@ -184,6 +184,9 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
     <li>
       Invited talk at <a href="https://aamtjapio.com/">AAMT/Japio SIG</a>, 2025. <a href="https://docs.google.com/presentation/d/1QQkK3NxLJ2H2exNFcizg75FqligTih_o/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
     </li>
+    <li>
+      Area Chair / Reviewer of ARR.
+    </li>
   </ul>
 </details>
 
