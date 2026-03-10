@@ -9,7 +9,7 @@ redirect_from:
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
 I am a third-year Ph.D. student at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb).
-The expected graduation date is March 2026.<br>
+The expected graduation date is June 2026.<br>
 I am also working for [National Institute of Information and Communications Technology](https://www.nict.go.jp/) (NICT), Japan, as a Technical Researcher in the ATT Lab of ASTREC, where I work under the guidance of [Dr. Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Dr. Tanaka](https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja), and [Dr. Ding](https://att-astrec.nict.go.jp/member/ding/).<br>
 I maintain a broad interest in Natural Language Processing (NLP) in general.
 My main research focuses on Machine Translation, particularly in Multilingual settings.
@@ -110,10 +110,10 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
           Y Sakai*, <u>Z Qu*</u>, H Kamigaito, T Watanabe, X Liu
         <br>
           <em>
-            Transactions on Machine Learning Research (TMLR)
+            Transactions on Machine Learning Research (TMLR). 2026.01.
           </em>
         <br>
-        (To Appear)
+        <a href="https://openreview.net/forum?id=UKLBobrFCR/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
     </ul>
     </details>
@@ -185,7 +185,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
       Invited talk at <a href="https://aamtjapio.com/">AAMT/Japio SIG</a>, 2025. <a href="https://docs.google.com/presentation/d/1QQkK3NxLJ2H2exNFcizg75FqligTih_o/edit?usp=sharing&ouid=117841621988194296049&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Slides-green"/></a>
     </li>
     <li>
-      Area Chair / Reviewer of ARR.
+      Area Chair / Reviewer of ARR; Reviewer of TASLP;...
     </li>
   </ul>
 </details>
