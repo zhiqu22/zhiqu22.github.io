@@ -113,7 +113,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
             Transactions on Machine Learning Research (TMLR). 2026.01.
           </em>
         <br>
-        <a href="https://openreview.net/forum?id=UKLBobrFCR/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+        <a href="https://openreview.net/forum?id=UKLBobrFCR"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
     </ul>
     </details>
