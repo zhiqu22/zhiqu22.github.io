@@ -25,6 +25,28 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
     <summary><span class="summary-heading">Conference</span></summary>
     <ul>
       <li> 
+        XQ-MEval: A Dataset with Cross-lingual Parallel Quality for Benchmarking Translation Metrics
+        <br>
+        J Liu*, <u>Z Qu*</u>, J Tei, H Kamigaito, L Liu, T Watanabe
+        <br>
+          <em>
+            ACL 2026 Findings
+          </em>
+        <br>
+        <a href="https://arxiv.org/abs/2604.14934"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+      <li> 
+        CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity
+        <br>
+        X Wei, Z Wang, X Zhou, <u>Z Qu</u>, H Li, Y Sakai, H Kamigaito, T Watanabe
+        <br>
+          <em>
+            ACL 2026
+          </em>
+        <br>
+        <a href="https://arxiv.org/abs/2604.11632"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+      <li> 
         Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation
         <br>
         <u>Z Qu</u>, Y Wang, J. Mao, C Ding, H Tanaka, M Utiyama, T Watanabe
