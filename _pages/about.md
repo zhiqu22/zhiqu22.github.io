@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
-I am a third-year Ph.D. student at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb).
-The expected graduation date is June 2026.<br>
+I am a Ph.D. Candidate at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb), I will receive my degree in June 2026.<br>
 I am also working for [National Institute of Information and Communications Technology](https://www.nict.go.jp/) (NICT), Japan, as a Technical Researcher in the ATT Lab of ASTREC, where I work under the guidance of [Dr. Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Dr. Tanaka](https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja), and [Dr. Ding](https://att-astrec.nict.go.jp/member/ding/).<br>
 I maintain a broad interest in Natural Language Processing (NLP) in general.
 My main research focuses on Machine Translation, particularly in Multilingual settings.
@@ -45,6 +44,17 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
           </em>
         <br>
         <a href="https://arxiv.org/abs/2604.11632"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+      <li> 
+        Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation
+        <br>
+        B Lyu, H Song, Z Qu
+        <br>
+          <em>
+            EAMT 2026
+          </em>
+        <br>
+        <a href="https://arxiv.org/abs/2603.12983"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
       <li> 
         Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation
@@ -91,7 +101,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
           H Li, D Cai, <u>Z Qu</u>, Q Cui, H Kamigaito, L Liu, T Watanabe
         <br>
           <em>
-            Findings of EMNLP 2024
+             EMNLP 2024 Findings
           </em>
         <br>
         <img src="https://img.shields.io/badge/Poster-purple"/>
