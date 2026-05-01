@@ -35,17 +35,6 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
         <a href="https://arxiv.org/abs/2604.14934"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
       <li> 
-        CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity
-        <br>
-        X Wei, Z Wang, X Zhou, <u>Z Qu</u>, H Li, Y Sakai, H Kamigaito, T Watanabe
-        <br>
-          <em>
-            ACL 2026
-          </em>
-        <br>
-        <a href="https://arxiv.org/abs/2604.11632"><img src="https://img.shields.io/badge/Paper-blue"/></a>
-      </li>
-      <li> 
         Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation
         <br>
         B Lyu, H Song, Z Qu
