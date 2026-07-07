@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
-I am a Technical Researcher at the Multilingual and Multicultural Communication Laboratory of the <a href="https://www.nict.go.jp/">National Institute of Information and Communications Technology (NICT)</a>, Japan. I work under the supervision of <a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/">Dr. Masao Utiyama</a>, <a href="https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja">Dr. Hideki Tanaka</a>, and <a href="https://att-astrec.nict.go.jp/member/tei/">Dr. Ching-Huei Tei</a>.<br>
+I am a Technical Researcher at the [Multilingual and Multicultural Communication Laboratory](https://att-astrec.nict.go.jp/?_gl=1*iminz0*_ga*MzY4NDgxMzU3LjE3NzAzNDY5ODQ.*_ga_GRHV5QN75N*czE3ODM0MzYxNzAkbzExJGcxJHQxNzgzNDM2MTg4JGo0MiRsMCRoMA..*_ga_H10Z448G8R*czE3ODM0MzYxNzAkbzExJGcxJHQxNzgzNDM2MTg4JGo0MiRsMCRoMA..) of the <a href="https://www.nict.go.jp/">National Institute of Information and Communications Technology (NICT)</a>, Japan. I work under the supervision of <a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/">Dr. Utiyama</a>, <a href="https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja">Dr. Tanaka</a>, and <a href="https://att-astrec.nict.go.jp/member/tei/">Dr. Tei</a>.<br>
 
-I received my Ph.D. in June 2026 from the <a href="https://www.naist.jp/">Nara Institute of Science and Technology (NAIST)</a>, where I was advised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a>.<br>
+I received my Ph.D. in 2026.06 from the <a href="https://www.naist.jp/">Nara Institute of Science and Technology</a> (NAIST), where I was advised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a>.<br>
 
-My research interests broadly lie in Natural Language Processing (NLP). My current research focuses on Machine Translation, with a particular emphasis on multilingual and multimodal settings.
+My research interests broadly lie in Natural Language Processing (NLP). I mainly focus on Machine Translation, with a particular emphasis on multilingual and multimodal settings.
 
 You can learn more about my work through my <a href="#publications">Publications</a>, <a href="#educations">Education</a>, and <a href="#research_experiences">Research Experience</a>. You can also find me on <a href="https://dblp.org/pid/45/9934-1.html">DBLP</a>, <a href="https://aclanthology.org/people/z/zhi-qu/">ACL Anthology</a>, and <a href="https://openreview.net/profile?id=%7EZhi_Qu2">OpenReview</a>.
 
@@ -191,13 +191,13 @@ You can learn more about my work through my <a href="#publications">Publications
   <h3>Nara Institute of Science and Technology, Japan</h3>
   Supervised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a> at <a href="https://nlp.naist.jp/en">NLP Lab</a>
   <ul>
-    <li>Ph.D. of Engineering, 2023.4 ~ 2026.6</li>
-    <li>Master of Engineering, 2021.4 ~ 2023.3</li>
+    <li>Ph.D. of Engineering, 2023.04 ~ 2026.06</li>
+    <li>Master of Engineering, 2021.04 ~ 2023.03</li>
   </ul>
 
   <h3>Chongqing Normal University, China</h3>
   <ul>
-    <li>Bachelor of Science, 2015.9 ~ 2019.6</li>
+    <li>Bachelor of Science, 2015.09 ~ 2019.06</li>
   </ul>
 </details>
 
@@ -209,7 +209,7 @@ You can learn more about my work through my <a href="#publications">Publications
     <li>Technical Researcher, <a href="https://att-astrec.nict.go.jp/">ATT Lab</a>, 
   <a href="https://astrec.nict.go.jp/">ASTERC</a>, NICT, 2025.10 ~ present</li>
     <li>Internship, ATT Lab, ASTERC, NICT, 2023.10 ~ 2025.09</li>
-    <li>Research Assistant, NLP Lab, NAIST, 2023.4 ~ 2026.03</li>
+    <li>Research Assistant, NLP Lab, NAIST, 2023.04 ~ 2026.03</li>
   </ul>
 </details>
 

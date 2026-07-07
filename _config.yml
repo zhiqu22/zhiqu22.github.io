@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Zhi Qu | 屈直"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate @ NAIST <br> Technical Researcher @ NICT"
+  bio              : "Technical Researcher @ NICT <br> Ph.D. of Engineering @ NAIST"
   location         : "JAPAN"
   # employer         : "NAIST"
   # uri              : "https://www.naist.jp/"
-  email            : "qu.zhi.pv5@is.naist.jp" 
+  email            : "qu.zhi@nict.go.jp" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=iLifb1YAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=iLifb1YAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   # orcid            : "https://orcid.org/0009-0005-9877-2803"
   semantic         : # URL
