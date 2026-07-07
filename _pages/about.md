@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <summary id="about_me"><span class="summary-heading">About Me</span></summary>
-I am a Ph.D. Candidate at [Nara Institute of Science and Technology](https://www.naist.jp/) (NAIST), supervised by [Prof. Taro Watanabe](https://sites.google.com/site/tarowtnb), I will receive my degree in June 2026.<br>
-I am also working for [National Institute of Information and Communications Technology](https://www.nict.go.jp/) (NICT), Japan, as a Technical Researcher in the ATT Lab of ASTREC, where I work under the guidance of [Dr. Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Dr. Tanaka](https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja), and [Dr. Ding](https://att-astrec.nict.go.jp/member/ding/).<br>
-I maintain a broad interest in Natural Language Processing (NLP) in general.
-My main research focuses on Machine Translation, particularly in Multilingual settings.
+I am a Technical Researcher at the Multilingual and Multicultural Communication Laboratory of the <a href="https://www.nict.go.jp/">National Institute of Information and Communications Technology (NICT)</a>, Japan. I work under the supervision of <a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/">Dr. Masao Utiyama</a>, <a href="https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=ja">Dr. Hideki Tanaka</a>, and <a href="https://att-astrec.nict.go.jp/member/tei/">Dr. Ching-Huei Tei</a>.<br>
 
-You can learn more about me through my [Publications](#publications), [Educations](#educations) and [Research Experiences](#research_experiences).
-You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](https://aclanthology.org/people/z/zhi-qu/) and [OpenReview Profile](https://openreview.net/profile?id=%7EZhi_Qu2).
+I received my Ph.D. in June 2026 from the <a href="https://www.naist.jp/">Nara Institute of Science and Technology (NAIST)</a>, where I was advised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a>.<br>
+
+My research interests broadly lie in Natural Language Processing (NLP). My current research focuses on Machine Translation, with a particular emphasis on multilingual and multimodal settings.
+
+You can learn more about my work through my <a href="#publications">Publications</a>, <a href="#educations">Education</a>, and <a href="#research_experiences">Research Experience</a>. You can also find me on <a href="https://dblp.org/pid/45/9934-1.html">DBLP</a>, <a href="https://aclanthology.org/people/z/zhi-qu/">ACL Anthology</a>, and <a href="https://openreview.net/profile?id=%7EZhi_Qu2">OpenReview</a>.
 
 ---
 
@@ -191,7 +191,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
   <h3>Nara Institute of Science and Technology, Japan</h3>
   Supervised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a> at <a href="https://nlp.naist.jp/en">NLP Lab</a>
   <ul>
-    <li>Ph.D. Student, 2023.4 ~ present</li>
+    <li>Ph.D. of Engineering, 2023.4 ~ 2026.6</li>
     <li>Master of Engineering, 2021.4 ~ 2023.3</li>
   </ul>
 
@@ -209,7 +209,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
     <li>Technical Researcher, <a href="https://att-astrec.nict.go.jp/">ATT Lab</a>, 
   <a href="https://astrec.nict.go.jp/">ASTERC</a>, NICT, 2025.10 ~ present</li>
     <li>Internship, ATT Lab, ASTERC, NICT, 2023.10 ~ 2025.09</li>
-    <li>Research Assistant, NLP Lab, NAIST, 2023.4 ~ present</li>
+    <li>Research Assistant, NLP Lab, NAIST, 2023.4 ~ 2026.03</li>
   </ul>
 </details>
 
