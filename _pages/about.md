@@ -33,6 +33,7 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
           </em>
         <br>
         <a href="https://arxiv.org/abs/2604.14934"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+        <a href="https://huggingface.co/datasets/naist-nlp/XQ-MEval"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
       </li>
       <li> 
         Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation
@@ -120,10 +121,36 @@ You also can find my [DBLP](https://dblp.org/pid/45/9934-1.html), [ACL Profile](
           Y Sakai*, <u>Z Qu*</u>, H Kamigaito, T Watanabe, X Liu
         <br>
           <em>
-            Transactions on Machine Learning Research (TMLR). 2026.01.
+            Transactions on Machine Learning Research (TMLR). 2026.
           </em>
         <br>
         <a href="https://openreview.net/forum?id=UKLBobrFCR"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        MITRE: Efficient Pre-trained Models for Multilingual Neural Machine Translation with Registering
+        <br>
+          <u>Z Qu</u>, Y Wang, J Mao, J Tei, H Tanaka, M Utiyama, T Watanabe
+        <br>
+          <em>
+            自然言語処理 33 (2), 809-847.
+          </em>
+        <br>
+        <a href="https://www.jstage.jst.go.jp/article/jnlp/33/2/33_809/_article/-char/ja/"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        A Cross-Domain Tool-Augmented Vision–Language Framework for Remote Sensing Image Understanding
+        <br>
+          X Zhou, X Wei, <u>Z Qu</u>, Y Sakai, H Kamigaito, T Watanabe
+        <br>
+          <em>
+            Remote Sensing 18 (10), 1613.
+          </em>
+        <br>
+        <a href="https://www.mdpi.com/2072-4292/18/10/1613"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
     </ul>
     </details>
