@@ -32,13 +32,45 @@ You can learn more about my work through my <a href="#publications">Publications
             ACL 2026 Findings
           </em>
         <br>
-        <a href="https://arxiv.org/abs/2604.14934"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+        <a href="https://aclanthology.org/2026.findings-acl.1846"><img src="https://img.shields.io/badge/Paper-blue"/></a>
         <a href="https://huggingface.co/datasets/naist-nlp/XQ-MEval"><img src="https://img.shields.io/badge/Hugging%20Face-yellow"/></a>
+      </li>
+      <li> 
+        Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation
+        <br>
+        B Lyu, H Song, <u>Z Qu</u>
+        <br>
+          <em>
+            EMNLP 2026 Findings
+          </em>
+        <br>
+        <a href="https://arxiv.org/abs/2603.12983"><img src="https://img.shields.io/badge/Paper-blue"/></a>
+      </li>
+      <li> 
+        Where Do Vision-Language Models Fail on Abstract Reasoning? An Information Processing Analysis of ARC
+        <br>
+        X Zhou, X Wei, <u>Z Qu</u>, Y Sakai, H Kamigaito, T Watanabe
+        <br>
+          <em>
+            EMNLP 2026
+          </em>
+        <br>
+      </li>
+      <li> 
+        CArtBench: A Museum-Grounded Benchmark for Evidence-Faithful Chinese Art Understanding
+        <br>
+        X Wei, Z Wang, X Zhou, <u>Z Qu</u>, H Li, Y Sakai, H Kamigaito, T Watanabe
+        <br>
+          <em>
+            EMNLP 2026 Findings
+          </em>
+        <br>
+        <a href="https://arxiv.org/abs/2604.11632"><img src="https://img.shields.io/badge/Paper-blue"/></a>
       </li>
       <li> 
         Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation
         <br>
-        <u>Z Qu</u>, Y Wang, J. Mao, C Ding, H Tanaka, M Utiyama, T Watanabe
+        <u>Z Qu</u>, Y Wang, J Mao, C Ding, H Tanaka, M Utiyama, T Watanabe
         <br>
           <em>
             ACL 2025
@@ -158,6 +190,17 @@ You can learn more about my work through my <a href="#publications">Publications
     <summary><span class="summary-heading">Workshop</span></summary>
     <ul>
       <li>
+        MangaLens: A Multi-Model Tool for Structured Manga Parsing
+        <br>
+          J Mao, J Tei, <u>Z Qu</u>, H Tanaka, M Utiyama
+        <br>
+          <em>
+            EMNLP 2026 Demo
+          </em>
+        <br>
+        <a href="https://github.com/nict-astrec-att/MangaLens"><img src="https://img.shields.io/badge/Github-gray"/></a>
+      </li>
+      <li>
         Improving language transfer capability of decoder-only architecture in multilingual neural machine translation
         <br>
           <u>Z Qu</u>, Y Wang, C Ding, H Tanaka, M Utiyama, T Watanabe
@@ -191,8 +234,14 @@ You can learn more about my work through my <a href="#publications">Publications
   <h3>Nara Institute of Science and Technology, Japan</h3>
   Supervised by <a href="https://sites.google.com/site/tarowtnb">Prof. Taro Watanabe</a> at <a href="https://nlp.naist.jp/en">NLP Lab</a>
   <ul>
-    <li>Ph.D. of Engineering, 2023.04 ~ 2026.06</li>
-    <li>Master of Engineering, 2021.04 ~ 2023.03</li>
+    <li>Ph.D. of Engineering, 2023.04 ~ 2026.06
+      <br>
+      Dissertation: Towards Robust and Efficient Multilingual Neural Machine Translation. [<a href="https://library.naist.jp/opac/book/118762">URL</a>]
+    </li>
+    <li>Master of Engineering, 2021.04 ~ 2023.03
+      <br>
+      Thesis: Adapting to Non-Centered Languages for Zero-shot Multilingual Translation. [<a href="https://library.naist.jp/opac/book/106859">URL</a>]
+    </li>
   </ul>
 
   <h3>Chongqing Normal University, China</h3>
