@@ -282,7 +282,7 @@ You can learn more about my work through my <a href="#publications">Publications
   <summary><span class="summary-heading">Honors</span></summary>
   <ul>
     <li>
-      EMNLP 2026 Oustanding Researcher Award. [<a href="https://drive.google.com/file/d/1BnFqOAivCG3kMS1Dj8j9d4x7J54k_tCj/view?usp=sharing">url</a>]
+      EMNLP 2026 Outstanding Reviewer Award. [<a href="https://drive.google.com/file/d/1BnFqOAivCG3kMS1Dj8j9d4x7J54k_tCj/view?usp=sharing">url</a>]
     </li>
     <li>
       Springer EAMT 2025 Best Paper Award, 2025. [<a href="https://mtsummit2025.unige.ch/">news_1</a>] [<a href="http://isw3.naist.jp/IS/PubWG/Events-ja/2025/award20250627_qu.html">news_2</a>]
